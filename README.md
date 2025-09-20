@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyanshu
 - 📫 Just a Student
 - 👀 Here to explore
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - ⚡ languages I know HTML,Pyhton,MySQL
 
 

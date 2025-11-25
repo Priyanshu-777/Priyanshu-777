@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Priyanshu</h1>
+<h1 align="left">Hello World!, I'm Priyanshu</h1>
 <h3 align="left">I am a Computer Science Engineering student passionate about building and understanding technology. I enjoy exploring new tools, solving problems, and creating projects. I look forward to collaborating, learning, and evolving into a skilled developer.</h3>
 <hr>
 
